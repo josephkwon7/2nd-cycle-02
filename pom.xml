@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.slipp</groupId>
-	<artifactId>1st-cycle-02</artifactId>
+	<artifactId>2nd-cycle-02</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>1st-cycle-02</name>
+	<name>2nd-cycle-02</name>
 	<description>SliPP QnA</description>
 
 	<parent>
@@ -34,7 +34,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
